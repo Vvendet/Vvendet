@@ -9,3 +9,4 @@ Sou motivado pelo desconhecido, o que fortalece minha vontade de aprendizado, ta
 - 🤔 I’m looking for help with all XD.
 - 📫 How to reach me: jogosqilquer@gmail.com or froees147@gmail.com
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apiVvendet=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
