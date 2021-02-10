@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Chamo-me Júlio César Froes de Oliveira, atualmente estudante, ainda, em ensino médio e buscando certificações no vasto mundo TI. 
+Chamo-me Júlio César Froes de Oliveira, atualmente estudante, com ensino médio concluído e buscando certificações no vasto mundo TI. 
 Tenho foco na programação, já iniciado estudos em programação de sistemas, web e softwares com PHP, Python e até mesmo R.
 Sou motivado pelo desconhecido, o que fortalece minha vontade de aprendizado, tal como minha recepção à conteúdos novos e adaptabilidade às tecnologias.
 
