@@ -1,9 +1,7 @@
 ### Olá! 👋
 
 Chamo-me Júlio César Froes de Oliveira, atualmente estudante, com ensino médio concluído e buscando certificações em programação e ethical hacking. 
-Tenho foco na programação, já iniciado estudos em programação de sistemas, web e softwares com PHP, Python e até mesmo R.
-Sou motivado pelo desconhecido, o que fortalece minha vontade de aprendizado, tal como minha recepção à conteúdos novos e adaptabilidade às tecnologias.
-
+Já avancei com estudos em programação de sistemas e web, com Python, php, R, e etc e também desenvolvi habilidades em hacking com kali linux e shell script.
 
 - 🌱 I’m currently learning PhP, Python, R and Kali Linux.
 - 🤔 I’m looking for an job.
