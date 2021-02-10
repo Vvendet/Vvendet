@@ -7,6 +7,6 @@ Sou motivado pelo desconhecido, o que fortalece minha vontade de aprendizado, ta
 
 - 🌱 I’m currently learning PhP, Python, R and Kali Linux.
 - 🤔 I’m looking for an job.
-- 📫 How to reach me: jogosqilquer@gmail.com or froees147@gmail.com
+- 📫 How to reach me: jogosqilquer@gmail.com, froees147@gmail.com or 61992416879
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vvendet)](https://github.com/anuraghazra/github-readme-stats)
