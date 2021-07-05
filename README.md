@@ -13,3 +13,4 @@ Já avancei com estudos em programação de sistemas e web, com Python, php, R, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vvendet&show_icons=true&theme=radical)
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
