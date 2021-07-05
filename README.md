@@ -7,6 +7,8 @@ Já avancei com estudos em programação de sistemas e web, com Python, php, R, 
 - 🌱 I’m currently learning JS, Python and Kali linux
 - 📫 How to reach me: jogosqilquer@gmail.com, froees147@gmail.com or +5561992416879
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vvendet)](https://github.com/anuraghazra/github-readme-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvendet&theme=blue-green)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vvendet)](https://github.com/anuraghazra/github-readme-stats)
 
