@@ -1,7 +1,7 @@
 
 ### Olá! 👋
 
-Chamo-me Júlio César Froes de Oliveira, atualmente estudante na Universidade de Brasília (UnB), com ensino médio concluído e buscando certificações em programação e ethical hacking. 
+Chamo-me Júlio César Froes de Oliveira, atualmente estudante na Universidade de Brasília (UnB) e buscando certificações em programação e ethical hacking. 
 Já avancei com estudos em programação de sistemas e web, com Python, php, R, e etc e também desenvolvi habilidades em hacking com kali linux e shell script.
 
 - 🌱 I’m currently learning JS, Python and Kali linux
