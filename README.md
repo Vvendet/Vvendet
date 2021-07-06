@@ -8,7 +8,7 @@ Já avancei com estudos em programação de sistemas e web, com Python, php, R, 
 - 📫 How to reach me: jogosqilquer@gmail.com, froees147@gmail.com or +5561992416879
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvendet&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvendet&theme=blue-green) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vvendet&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vvendet&show_icons=true&theme=radical)
+
