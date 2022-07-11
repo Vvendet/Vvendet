@@ -1,7 +1,7 @@
 
 ### Olá! 👋
 
-Sou o Júlio, que estuda na Universida de Brasília (UnB), cursando Matemática, e gosta de estudar e mexer no que dá pra fazer com tecnologias. 
+Sou o Júlio, que estuda na Universida de Brasília (UnB), cursando Matemática e gosta de estudar e mexer no que dá pra fazer com tecnologias. 
 
 
 - 🌱 I’m currently learning JS, Python and Kali linux, Php, C#
