@@ -50,9 +50,11 @@ Buscando excelência no ofício de produzir conhecimento e tecnologia!
 </a>
 
 [linkedin]: https://www.linkedin.com/in/juliofroesoliveira/
+[instagram]: https://www.instagram.com/jfroes.s/
 <br>
 
 #### Rede Sociais!
 
+📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
