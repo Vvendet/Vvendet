@@ -10,6 +10,7 @@ Buscando excelência no ofício de produzir conhecimento e tecnologia!
 **Aplicações e Dados**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
